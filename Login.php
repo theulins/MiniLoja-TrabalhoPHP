@@ -9,6 +9,6 @@ include ("conexao.php");
     <title>Document</title>
 </head>
 <body>
-<h1>o</h1>
+
 </body>
 </html>
