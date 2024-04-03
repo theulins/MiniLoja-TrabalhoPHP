@@ -14,7 +14,7 @@ if ($mysqli->connect_error) {
 
 if (!$mysqli->select_db($banco_de_dados)) {
 
-    $script_sql = file_get_contents('caminho/do/seu/script.sql');
+    $script_sql = file_get_contents('database.sql');
 
 
     if ($mysqli->multi_query($script_sql)) {
