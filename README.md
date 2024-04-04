@@ -18,11 +18,8 @@ PHP instalado.
 Banco de dados MySQL.
 Configuração
 Clone o repositório para o seu ambiente de desenvolvimento.
-Importe o arquivo database.sql para criar o banco de dados e as tabelas necessárias.
-Configure as informações de conexão com o banco de dados no arquivo conexao.php.
+Importe o arquivo login.sql.zip para criar o banco de dados e as tabelas necessárias.
 Inicie o servidor web e acesse o projeto no navegador.
-Notas
-Este é um projeto básico para fins educacionais e de aprendizado.
-Não implementa funcionalidades avançadas de segurança, como proteção contra SQL injection ou autenticação de dois fatores.
-Recomenda-se melhorias adicionais em termos de segurança e usabilidade antes de implantar em um ambiente de produção.
-Certifique-se de ajustar as instruções de configuração e notas conforme necessário para refletir com precisão o seu projeto.
+
+Prototipo Figma
+![Texto Alternativo](/)
