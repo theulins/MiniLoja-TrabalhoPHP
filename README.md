@@ -22,4 +22,7 @@ Importe o arquivo login.sql.zip para criar o banco de dados e as tabelas necess√
 Inicie o servidor web e acesse o projeto no navegador.
 
 Prototipo Figma
-![Texto Alternativo](/)
+![Tela Login](images/1-Login.png)
+![Tela Login](images/2-Inicio.png)
+![Tela Login](images/3-Cadastro.png)
+![Tela Login](images/4-Carrinho.png)
